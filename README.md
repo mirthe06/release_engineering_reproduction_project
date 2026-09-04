@@ -1,1 +1,3 @@
-# release_engineering_reproduction_project
+# Reproduction Project
+group: Avatar
+Members: Mirthe van Hees, Paula Mas Pascual, 
