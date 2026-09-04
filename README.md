@@ -1,3 +1,3 @@
 # Reproduction Project
-group: Avatar
+group: Avatar \\
 Members: Mirthe van Hees, Paula Mas Pascual, 
