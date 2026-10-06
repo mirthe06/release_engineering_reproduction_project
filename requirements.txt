@@ -1,1 +1,6 @@
-python=3.14.7
+pandas
+pyarrow
+fsspec
+huggingface_hub
+requests
+jupyter
