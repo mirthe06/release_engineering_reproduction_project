@@ -1,0 +1,31 @@
+{
+  "mined_at_utc": "2026-10-07T00:37:50+00:00",
+  "source": {
+    "github": "SAILResearch/AI_Teammates_in_SE3",
+    "dataset": "hao-li/AIDev",
+    "revision_requested": "68ed5f4b80d27a9e057fc57567f38bd322ac73ec",
+    "revision_sha": "68ed5f4b80d27a9e057fc57567f38bd322ac73ec",
+    "subset": "AIDev-pop (>100 stars)"
+  },
+  "config": {
+    "seed": 42,
+    "sample_per_group": null
+  },
+  "rows": {
+    "pull_requests": 40214,
+    "pr_files": 575913,
+    "text_items": 94865,
+    "prs_by_agent": {
+      "OpenAI_Codex": 21799,
+      "Human": 6618,
+      "Copilot": 4970,
+      "Devin": 4827,
+      "Cursor": 1541,
+      "Claude_Code": 459
+    }
+  },
+  "env": {
+    "python": "3.13.7",
+    "pandas": "3.0.6"
+  }
+}
