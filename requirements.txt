@@ -4,3 +4,5 @@ fsspec
 huggingface_hub
 requests
 jupyter
+matplotlib
+seaborn
